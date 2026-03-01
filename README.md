@@ -41,6 +41,7 @@ Duration_Minutes
 Final modeling dataset structure:
 
 Train_No | Total_Distance | Number_of_Stops | Duration_Minutes
+
 🤖 Model Development
 
 Model Used: Linear Regression
@@ -56,6 +57,7 @@ MAE: 160.83 minutes
 Model equation form:
 
 Duration = b0 + b1*(Distance) + b2*(Number_of_Stops)
+
 📈 Visual Analysis
 
 The project includes:
